@@ -1,0 +1,6 @@
+[submodule "Cut2Chase-Design"]
+	path = Cut2Chase-Design
+	url = https://github.com/ReLU-Ly-Great-Team/Cut2Chase-Design
+[submodule "Cut2Chase-Server"]
+	path = Cut2Chase-Server
+	url = https://github.com/ReLU-Ly-Great-Team/Cut2Chase-Server
